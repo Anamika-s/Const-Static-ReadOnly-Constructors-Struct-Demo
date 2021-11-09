@@ -1,0 +1,16 @@
+E:\EmpDemo\bin\Debug\net5.0\EmpDemo.exe
+E:\EmpDemo\bin\Debug\net5.0\EmpDemo.deps.json
+E:\EmpDemo\bin\Debug\net5.0\EmpDemo.runtimeconfig.json
+E:\EmpDemo\bin\Debug\net5.0\EmpDemo.runtimeconfig.dev.json
+E:\EmpDemo\bin\Debug\net5.0\EmpDemo.dll
+E:\EmpDemo\bin\Debug\net5.0\ref\EmpDemo.dll
+E:\EmpDemo\bin\Debug\net5.0\EmpDemo.pdb
+E:\EmpDemo\obj\Debug\net5.0\EmpDemo.csproj.AssemblyReference.cache
+E:\EmpDemo\obj\Debug\net5.0\EmpDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\EmpDemo\obj\Debug\net5.0\EmpDemo.AssemblyInfoInputs.cache
+E:\EmpDemo\obj\Debug\net5.0\EmpDemo.AssemblyInfo.cs
+E:\EmpDemo\obj\Debug\net5.0\EmpDemo.csproj.CoreCompileInputs.cache
+E:\EmpDemo\obj\Debug\net5.0\EmpDemo.dll
+E:\EmpDemo\obj\Debug\net5.0\ref\EmpDemo.dll
+E:\EmpDemo\obj\Debug\net5.0\EmpDemo.pdb
+E:\EmpDemo\obj\Debug\net5.0\EmpDemo.genruntimeconfig.cache
